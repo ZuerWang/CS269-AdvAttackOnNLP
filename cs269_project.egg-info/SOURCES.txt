@@ -1,0 +1,6 @@
+README.md
+setup.py
+cs269_project.egg-info/PKG-INFO
+cs269_project.egg-info/SOURCES.txt
+cs269_project.egg-info/dependency_links.txt
+cs269_project.egg-info/top_level.txt

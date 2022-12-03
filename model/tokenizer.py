@@ -17,6 +17,7 @@ import torch
 import benepar
 import sys
 
+benepar.download('benepar_en3')
 
 def filter_unwanted_phrases(stop_words, phrases):
   indices = []

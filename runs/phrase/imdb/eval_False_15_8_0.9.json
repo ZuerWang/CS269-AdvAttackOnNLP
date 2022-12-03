@@ -1,0 +1,29 @@
+[
+  {
+    "k": 15,
+    "beam_width": 8,
+    "conf_thres": 3.0,
+    "sent_semantic_thres": 0.9,
+    "change_threshold": 0.2
+  },
+  {
+    "original_acc": 0.95,
+    "after_atk_acc": 0.28,
+    "query_per_attack": 307.64,
+    "success_rate": 0.7052631578947368,
+    "word_per_seq": 16.57,
+    "phrase_per_seq": 0.0,
+    "word-changed-rate": 0.052136429425460956,
+    "phrase-changed-rate": 0,
+    "attack_success": 67,
+    "total_q": 0,
+    "total_word_changes": 1657,
+    "total_words": 31782,
+    "total_phrase_changes": 0,
+    "total_phrases": 0,
+    "query_num": 30764,
+    "total_phrase_len": 0,
+    "num_total_entry": 100,
+    "sentence_semantic_similarity": 0.9528175812018546
+  }
+]
